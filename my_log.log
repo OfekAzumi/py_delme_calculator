@@ -1,0 +1,6 @@
+2023-08-30 15:41:20,547 - INFO - mulitply : prints this math equasion 50 x 2 = 100
+2023-08-30 15:41:27,527 - INFO - sumUp :prints this math equasion 60 + 6 = 66
+2023-08-30 15:41:51,836 - INFO - divide :prints this math equasion 55 / 6 = 9.166666666666666
+2023-09-02 22:05:31,633 - INFO - cannot devide number by zero 5 / 0 = unknown
+2023-09-02 22:05:48,293 - INFO - mulitply : prints this math equasion 50 x 20 = 2.5
+2023-09-02 22:05:53,451 - ERROR - cannot devide number by zero 20 / 0 = unknown
