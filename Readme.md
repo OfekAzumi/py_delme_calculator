@@ -1,5 +1,5 @@
 # Calculator
-    calculated and prints to logger if error
+    calculates and prints to logger if error
 
 # Methods
     Multipication
